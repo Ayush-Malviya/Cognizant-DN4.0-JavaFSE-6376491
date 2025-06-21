@@ -85,7 +85,4 @@ Recursively predicts future financial value using growth rate.
 ## 📜 License
 
 This repository is for educational and evaluation purposes under the DN 4.0 program.
-
-🔗 [GitHub Repository Link](https://github.com/Ayush-Malviya/Cognizant-DN4.0-JavaFSE-6376491)
-
 ```

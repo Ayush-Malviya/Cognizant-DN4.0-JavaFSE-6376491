@@ -41,4 +41,4 @@ java FinancialForecast
 ---
 
 📸 Output screenshot:
-See [`Output/FinancialForecast.png`](../Output/FinancialForecast.png)
+See [`Output/FinancialForecast.png`](Output/FinancialForecast.png)

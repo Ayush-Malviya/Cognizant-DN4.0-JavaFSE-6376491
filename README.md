@@ -44,8 +44,8 @@ Implements a thread-unsafe Singleton Logger.
 #### 02. Factory Method Pattern
 Uses the Factory Method design pattern to create documents like Word, PDF, and Excel.
 - Factory: [`DocumentFactory.java`](Week1/Week1_DesignPatterns/02_FactoryMethodPattern/Code/factory/DocumentFactory.java)
-- Implementations: [`WordDocumentFactory.java`](Week/Week1_DesignPatterns/02_FactoryMethodPattern/Code/factory/WordDocumentFactory.java), etc.
-- Test: [`FactoryTest.java`](Week/Week1_DesignPatterns/02_FactoryMethodPattern/Code/FactoryTest.java)
+- Implementations: [`WordDocumentFactory.java`](Week1/Week1_DesignPatterns/02_FactoryMethodPattern/Code/factory/WordDocumentFactory.java), etc.
+- Test: [`FactoryTest.java`](Week1/Week1_DesignPatterns/02_FactoryMethodPattern/Code/FactoryTest.java)
 
 ---
 

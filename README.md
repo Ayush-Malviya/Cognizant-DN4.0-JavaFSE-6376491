@@ -38,14 +38,14 @@ Each topic folder contains:
 
 #### 01. Singleton Pattern
 Implements a thread-unsafe Singleton Logger.
-- [`Logger.java`](Week1_DesignPatterns/01_SingletonPattern/Code/SingletonPatternExample/src/Logger.java)
-- [`LoggerTest.java`](Week1_DesignPatterns/01_SingletonPattern/Code/SingletonPatternExample/LoggerTest.java)
+- [`Logger.java`](Week1/Week1_DesignPatterns/01_SingletonPattern/Code/SingletonPatternExample/src/Logger.java)
+- [`LoggerTest.java`](Week1/Week1_DesignPatterns/01_SingletonPattern/Code/SingletonPatternExample/src/LoggerTest.java)
 
 #### 02. Factory Method Pattern
 Uses the Factory Method design pattern to create documents like Word, PDF, and Excel.
-- Factory: [`DocumentFactory.java`](Week1_DesignPatterns/02_FactoryMethodPattern/Code/factory/DocumentFactory.java)
-- Implementations: [`WordDocumentFactory.java`](Week1_DesignPatterns/02_FactoryMethodPattern/Code/factory/WordDocumentFactory.java), etc.
-- Test: [`FactoryTest.java`](Week1_DesignPatterns/02_FactoryMethodPattern/Code/FactoryTest.java)
+- Factory: [`DocumentFactory.java`](Week1/Week1_DesignPatterns/02_FactoryMethodPattern/Code/factory/DocumentFactory.java)
+- Implementations: [`WordDocumentFactory.java`](Week/Week1_DesignPatterns/02_FactoryMethodPattern/Code/factory/WordDocumentFactory.java), etc.
+- Test: [`FactoryTest.java`](Week/Week1_DesignPatterns/02_FactoryMethodPattern/Code/FactoryTest.java)
 
 ---
 
@@ -53,12 +53,12 @@ Uses the Factory Method design pattern to create documents like Word, PDF, and E
 
 #### 02. Search Algorithms
 Implements linear and binary search for a `Product` class.
-- [`Product.java`](Week1_DataStructures/02_SearchAlgorithms/Code/Product.java)
-- [`ProductSearch.java`](Week1_DataStructures/02_SearchAlgorithms/Code/ProductSearch.java)
+- [`Product.java`](Week1/Week1_DataStructures/02_SearchAlgorithms/Code/Product.java)
+- [`ProductSearch.java`](Week1/Week1_DataStructures/02_SearchAlgorithms/Code/ProductSearch.java)
 
 #### 07. Recursive Financial Forecasting
 Recursively predicts future financial value using growth rate.
-- [`FinancialForecast.java`](Week1_DataStructures/07_RecursiveForecasting/Code/FinancialForecast.java)
+- [`FinancialForecast.java`](Week1/Week1_DataStructures/07_RecursiveForecasting/Code/FinancialForecast.java)
 
 ---
 

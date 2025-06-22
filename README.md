@@ -36,12 +36,12 @@ Each topic folder contains:
 
 ### 🔷 Week 1: Design Patterns
 
-#### 01. Singleton Pattern
+#### [01. Singleton Pattern](Week1/Week1_DesignPatterns/01_SingletonPattern/Code/SingletonPatternExample/src)
 Implements a thread-unsafe Singleton Logger.
 - [`Logger.java`](Week1/Week1_DesignPatterns/01_SingletonPattern/Code/SingletonPatternExample/src/Logger.java)
 - [`LoggerTest.java`](Week1/Week1_DesignPatterns/01_SingletonPattern/Code/SingletonPatternExample/src/LoggerTest.java)
 
-#### 02. Factory Method Pattern
+#### [02. Factory Method Pattern](Week1/Week1_DesignPatterns/02_FactoryMethodPattern/Code)
 Uses the Factory Method design pattern to create documents like Word, PDF, and Excel.
 - Factory: [`DocumentFactory.java`](Week1/Week1_DesignPatterns/02_FactoryMethodPattern/Code/factory/DocumentFactory.java)
 - Implementations: [`WordDocumentFactory.java`](Week1/Week1_DesignPatterns/02_FactoryMethodPattern/Code/factory/WordDocumentFactory.java), etc.
@@ -51,12 +51,12 @@ Uses the Factory Method design pattern to create documents like Word, PDF, and E
 
 ### 🔶 Week 1: Data Structures & Algorithms
 
-#### 02. Search Algorithms
+#### [02. Search Algorithms](Week1/Week1_DataStructures/02_SearchAlgorithms/Code)
 Implements linear and binary search for a `Product` class.
 - [`Product.java`](Week1/Week1_DataStructures/02_SearchAlgorithms/Code/Product.java)
 - [`ProductSearch.java`](Week1/Week1_DataStructures/02_SearchAlgorithms/Code/ProductSearch.java)
 
-#### 07. Recursive Financial Forecasting
+#### [07. Recursive Financial Forecasting](Week1/Week1_DataStructures/07_RecursiveForecasting/Code)
 Recursively predicts future financial value using growth rate.
 - [`FinancialForecast.java`](Week1/Week1_DataStructures/07_RecursiveForecasting/Code/FinancialForecast.java)
 

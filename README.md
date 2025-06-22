@@ -38,7 +38,7 @@ Each topic folder contains:
 
 #### 01. Singleton Pattern
 Implements a thread-unsafe Singleton Logger.
-- [`Logger.java`](Week1_DesignPatterns/01_SingletonPattern/Code/SingletonPatternExample/Logger.java)
+- [`Logger.java`](Week1_DesignPatterns/01_SingletonPattern/Code/SingletonPatternExample/src/Logger.java)
 - [`LoggerTest.java`](Week1_DesignPatterns/01_SingletonPattern/Code/SingletonPatternExample/LoggerTest.java)
 
 #### 02. Factory Method Pattern

@@ -76,17 +76,40 @@ Recursively predicts future financial value using growth rate.
 
 ### 🔷 Week 2: PL/SQL
 
-- [01. Control Structures](Week2/Week2_PL_SQL/01_ControlStructures/): IF, LOOP, WHILE, CASE statements in PL/SQL.
-- [03. Stored Procedures](Week2/Week2_PL_SQL/03_StoredProcedures/): Creating and executing PL/SQL stored procedures.
+#### [01. Control Structures](Week2/Week2_PL_SQL/01_ControlStructures/)
+- IF, LOOP, WHILE, CASE statements in PL/SQL.
+#### [03. Stored Procedures](Week2/Week2_PL_SQL/03_StoredProcedures/)
+- Creating and executing PL/SQL stored procedures.
 
 ---
 
 ### 🔶 Week 2: JUnit
 
-- [01. JUnit Setup](Week2/Week2_JUnit/junit/01_JUnitSetup): Basic JUnit setup and test method structure.
-- [03. JUnit Assertions](Week2/Week2_JUnit/junit/03_JUnitAssertions): Usage of assertEquals, assertTrue, assertNotNull, etc.
-- [04. JUnit Setup & Teardown](Week2/Week2_JUnit/junit/04_JUnitSetupTeardown): Using @BeforeEach and @AfterEach for test lifecycle.
-- [05. Logging with SLF4J](Week2/Week2_JUnit/junit/05_LoggingWithSLF4J): Integrates SLF4J for logging in test classes.
+#### [01. JUnit Setup](Week2/Week2_JUnit/junit/01_JUnitSetup)
+- Setting up basic unit test structure with JUnit.
+
+#### [03. JUnit Assertions](Week2/Week2_JUnit/junit/03_JUnitAssertions)
+- Using assertions like assertEquals, assertTrue, assertNotNull, etc.
+
+#### [04. Setup & Teardown](Week2/Week2_JUnit/junit/04_JUnitSetupTeardown)
+- Using @BeforeEach and @AfterEach annotations to manage test lifecycle.
+
+---
+
+### 🔷 Week 2: Mockito
+
+#### [01. Mockito Testing](Week2/Week2_Mockito/01_MockitoTesting)
+- Using Mockito to mock dependencies and isolate unit tests.
+
+#### [02. Verify Interactions](Week2/Week2_Mockito/02_MockitoVerifyInteraction)
+- Verifying method calls and arguments using Mockito’s verify() method.
+
+---
+
+### 🔶 Week 2: SLF4J
+
+#### [01. SLF4J Logging](Week2/Week2_SLF4J/01_LoggingWithSLF4J)
+- Integrates SLF4J with unit tests to produce logs.
 
 ---
 

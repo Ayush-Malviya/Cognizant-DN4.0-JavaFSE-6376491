@@ -20,10 +20,14 @@ This repository contains Java-based solutions for hands-on exercises as part of 
 │   │   ├── 01_JUnitSetup/
 │   │   ├── 03_JUnitAssertions/
 │   │   ├── 04_JUnitSetupTeardown/
-│   │   ├── 05_LoggingWithSLF4J/
+│   ├── Week2_Mockito/
+│   │   ├── 01_MockitoTesting/
+│   │   ├── 02_MockitoVerifyInteraction/
 │   ├── Week2_PL_SQL/
 |   │   ├── 01_ControlStructures/
 |   │   ├── 03_StoredProcedures/
+│   ├── Week2_SLF4J/
+│   │   ├── 01_LoggingWithSLF4J/
 ├── Week3
 ├── Week4
 ├── Week5

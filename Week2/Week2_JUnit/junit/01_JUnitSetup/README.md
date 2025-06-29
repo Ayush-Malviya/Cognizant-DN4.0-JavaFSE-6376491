@@ -24,5 +24,5 @@ This exercise shows how to set up JUnit in a Java project to begin writing unit 
 
 ---
 
-📁 Code is available in the Code/ folder.
+📁 Code is available in the Code/ folder.   
 📸 Output screenshot available in the Output/ folder.

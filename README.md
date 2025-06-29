@@ -135,4 +135,4 @@ Recursively predicts future financial value using growth rate.
 
 ## 📜 License
 
-This repository is for educational and evaluation purposes under the DN 4.0 program.
+This repository is for educational and evaluation purposes under the DN 4.0 program. 

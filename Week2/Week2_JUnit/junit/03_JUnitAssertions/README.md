@@ -16,5 +16,5 @@ This exercise demonstrates how to use basic JUnit assertions to test values and 
 
 ---
 
-📁 Code: [Week2/Week2_JUnit/junit/src/test/java/com/example/AssertionsTest.java](Code/AssertionsTest.java)  
+📁 Code: [Code/AssertionsTest.java](Week2/Week2_JUnit/junit/src/test/java/com/example/AssertionsTest.java)  
 📸 Output screenshot available in the Output/ folder.

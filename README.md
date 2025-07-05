@@ -120,6 +120,27 @@ Recursively predicts future financial value using growth rate.
 
 ---
 
+### 🔷 Week 3: Spring Core + Maven
+
+#### [01. Basic Spring App](Week3/Week3_SpringCore_Maven/librarymanagement/01_BasicSpringApp)
+- Simple Spring application using XML or annotation-based configuration.
+
+#### [02. Dependency Injection](Week3/Week3_SpringCore_Maven/librarymanagement/02_DependencyInjection)
+- Demonstrates constructor and setter injection in Spring.
+
+#### [04. Maven + Spring Setup](Week3/Week3_SpringCore_Maven/librarymanagement/04_MavenSpringSetup)
+- How to integrate Maven with a Spring project.
+
+### 🔶 Week 2: Spring Data JPA
+
+#### [01. ORM Learn Project](Week3/Week3_SpringDataJPA/01_OrmLearnProject)
+- Implements JPA-based entity mapping and database operations.
+
+#### [04. JPA vs Hibernate vs Spring Data JPA](Week3/Week3_SpringDataJPA/04_JPA_vs_Hibernate_vs_SpringDataJPA)
+- Compares the key features and usage of JPA, Hibernate, and Spring Data JPA.
+
+---
+
 ## 🚀 How to Run Code
 
 1. Navigate to the relevant `Code/` folder:

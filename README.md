@@ -131,7 +131,7 @@ Recursively predicts future financial value using growth rate.
 #### [04. Maven + Spring Setup](Week3/Week3_SpringCore_Maven/librarymanagement/04_MavenSpringSetup)
 - How to integrate Maven with a Spring project.
 
-### 🔶 Week 2: Spring Data JPA
+### 🔶 Week 3: Spring Data JPA
 
 #### [01. ORM Learn Project](Week3/Week3_SpringDataJPA/01_OrmLearnProject)
 - Implements JPA-based entity mapping and database operations.

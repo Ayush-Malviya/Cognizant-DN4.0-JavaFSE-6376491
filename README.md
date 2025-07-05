@@ -29,6 +29,13 @@ This repository contains Java-based solutions for hands-on exercises as part of 
 │   ├── Week2_SLF4J/
 │   │   ├── 01_LoggingWithSLF4J/
 ├── Week3
+│   ├── Week3_SpringCore_Maven/
+│   │   ├── 01_BasicSpringApp/
+│   │   ├── 02_DependencyInjection/
+│   │   ├── 04_MavenSpringSetup/
+│   ├── Week3_SpringDataJPA/
+|   │   ├── 01_OrmLearnProject/
+|   │   ├── 04_JPA_vs_Hibernate_vs_SpringDataJPA/
 ├── Week4
 ├── Week5
 ├── Week6

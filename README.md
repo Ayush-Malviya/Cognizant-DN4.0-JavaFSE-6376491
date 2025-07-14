@@ -139,6 +139,8 @@ Recursively predicts future financial value using growth rate.
 #### [04. Maven + Spring Setup](Week3/Week3_SpringCore_Maven/librarymanagement/04_MavenSpringSetup)
 - How to integrate Maven with a Spring project.
 
+---
+
 ### 🔶 Week 3: Spring Data JPA
 
 #### [01. ORM Learn Project](Week3/Week3_SpringDataJPA/01_OrmLearnProject)
@@ -146,6 +148,32 @@ Recursively predicts future financial value using growth rate.
 
 #### [04. JPA vs Hibernate vs Spring Data JPA](Week3/Week3_SpringDataJPA/04_JPA_vs_Hibernate_vs_SpringDataJPA)
 - Compares the key features and usage of JPA, Hibernate, and Spring Data JPA.
+
+---
+
+### 🔷 Week 4: Spring Web + REST
+
+#### [01. Spring Web Project Setup](Week4/Week4_SpringWeb_Maven/01_SpringWebProjectSetup)
+- Sets up a basic Spring Web project with Maven.
+
+#### [04. Load Country from XML](Week4/Week4_SpringWeb_Maven/04_LoadCountryFromXML)
+- Loads country data from XML configuration.
+
+#### [02. Hello World REST](Week4/Week4_SpringWeb_Maven/02_HelloWorldREST)
+- REST endpoint that returns a simple greeting.
+
+#### [03. Country REST Service](Week4/Week4_SpringWeb_Maven/03_CountryRESTService)
+- Exposes REST API for Country model with sample response.
+
+#### [05. Get Country by Code](Week4/Week4_SpringWeb_Maven/05_GetCountryByCode)
+- REST endpoint that returns a country by its code.
+
+---
+
+### 🔶 Week 3: Spring Security + JWT
+
+#### [04. Auth Token Generation](Week4/Week4_SpringSecurity_JWT/04_AuthTokenGeneration)
+- Demonstrates generating and returning a JWT token for authentication.
 
 ---
 

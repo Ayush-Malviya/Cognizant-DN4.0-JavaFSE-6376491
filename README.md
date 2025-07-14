@@ -37,6 +37,14 @@ This repository contains Java-based solutions for hands-on exercises as part of 
 |   │   ├── 01_OrmLearnProject/
 |   │   ├── 04_JPA_vs_Hibernate_vs_SpringDataJPA/
 ├── Week4
+│   ├── Week4_SpringSecurity_JWT/
+│   │   ├── 04_AuthTokenGeneration/
+│   ├── Week4_SpringWeb_Maven/
+|   │   ├── 01_SpringWebProjectSetup/
+|   │   ├── 02_HelloWorldREST/
+|   │   ├── 03_CountryRESTService/
+|   │   ├── 04_LoadCountryFromXML/
+|   │   ├── 05_GetCountryByCode/
 ├── Week5
 ├── Week6
 ├── Week7
@@ -163,4 +171,4 @@ Recursively predicts future financial value using growth rate.
 
 ## 📜 License
 
-This repository is for educational and evaluation purposes under the DN 4.0 program. 
+This repository is for educational and evaluation purposes under the DN 4.0 program.

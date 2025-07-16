@@ -46,6 +46,7 @@ This repository contains Java-based solutions for hands-on exercises as part of 
 |   │   ├── 04_LoadCountryFromXML/
 |   │   ├── 05_GetCountryByCode/
 ├── Week5
+│   ├── Week5_Microservices/
 ├── Week6
 ├── Week7
 ├── Week8
@@ -170,10 +171,17 @@ Recursively predicts future financial value using growth rate.
 
 ---
 
-### 🔶 Week 3: Spring Security + JWT
+### 🔶 Week 4: Spring Security + JWT
 
 #### [04. Auth Token Generation](Week4/Week4_SpringSecurity_JWT/04_AuthTokenGeneration)
 - Demonstrates generating and returning a JWT token for authentication.
+
+---
+
+### 🔷 Week 5: Microservices
+
+#### [Microservices – Account & Loan Services](Week5/Week5_Microservices)
+- Creating independent microservices like Account and Loan.
 
 ---
 

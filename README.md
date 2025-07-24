@@ -48,6 +48,11 @@ This repository contains Java-based solutions for hands-on exercises as part of 
 ├── Week5
 │   ├── Week5_Microservices/
 ├── Week6
+│   ├── 01_React/
+│   ├── 02_React/
+│   ├── 03_React/
+│   ├── 04_React/
+│   ├── 05_React/
 ├── Week7
 ├── Week8
 

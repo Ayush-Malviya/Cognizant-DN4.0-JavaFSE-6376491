@@ -185,6 +185,25 @@ Recursively predicts future financial value using growth rate.
 
 ---
 
+### 🔷 Week 6: React
+
+#### [01. React – Getting Started](Week6/01_React)
+- Sets up a basic React application named myfirstreact.
+
+#### [02. React – Class Components](Week6/02_React)
+- Builds a Student Management Portal using class components.
+
+#### [03. React – Function Components](Week6/03_React)
+- Functional component named CalculateScore.
+
+#### [04. React – Lifecycle Methods](Week6/04_React)
+- Uses componentDidMount and componentDidCatch.
+
+#### [05. React – Styling Components](Week6/05_React)
+- Demonstrates styling with CSS Modules and inline styles.
+
+---
+
 ## 🚀 How to Run Code
 
 1. Navigate to the relevant `Code/` folder:

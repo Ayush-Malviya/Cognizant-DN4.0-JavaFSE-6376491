@@ -214,6 +214,25 @@ Recursively predicts future financial value using growth rate.
 
 ---
 
+### 🔷 Week 7: React Continued
+
+#### [09. React – ES6 Features](Week7/09_React)
+- React app cricketapp includes components for listing players and filtering them based on scores.
+
+#### [10. React – JSX & Rendering](Week7/10_React)
+- React app officespacerentalapp displays office listings and conditionally styles rents.
+
+#### [11. React – Event Handling](Week7/11_React)
+- Includes a CurrencyConvertor component that converts INR to EUR on form submission.
+
+#### [12. React – Conditional Rendering](Week7/12_React)
+- ticketbookingapp shows Guest or User view based on authentication flag.
+
+#### [13. React – Lists & Keys](Week7/13_React)
+- bloggerapp renders Book, Blog, and Course details conditionally.
+
+---
+
 ## 🚀 How to Run Code
 
 1. Navigate to the relevant `Code/` folder:

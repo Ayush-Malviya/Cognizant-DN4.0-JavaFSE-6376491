@@ -54,6 +54,11 @@ This repository contains Java-based solutions for hands-on exercises as part of 
 │   ├── 04_React/
 │   ├── 05_React/
 ├── Week7
+│   ├── 09_React/
+│   ├── 10_React/
+│   ├── 11_React/
+│   ├── 12_React/
+│   ├── 13_React/
 ├── Week8
 
 ````

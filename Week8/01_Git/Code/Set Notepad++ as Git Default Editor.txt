@@ -1,0 +1,7 @@
+notepad++
+
+alias np='notepad++'
+
+git config --global core.editor "notepad++"
+
+git config -e

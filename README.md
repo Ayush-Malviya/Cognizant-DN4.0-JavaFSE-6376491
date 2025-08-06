@@ -238,6 +238,25 @@ Recursively predicts future financial value using growth rate.
 
 ---
 
+### 🔷 Week 8: Git Essentials
+
+#### [01. Git – Initial Setup](Week8/01_Git)
+- Configure Git, set Notepad++ as default editor, and add files to a new repository.
+
+#### [02. Git – Ignoring Files](Week8/02_Git)
+- Use .gitignore to exclude .log files and log folders from version control.
+
+#### [03. Git – Branching and Merging](Week8/03_Git)
+- Create and switch branches, make changes, and merge them into the main branch using Git and GitLab.
+
+#### [04. Git – Conflict Resolution](Week8/04_Git)
+- Simulate and resolve merge conflicts using CLI and P4Merge.
+
+#### [05. Git – Cleanup and Push](Week8/05_Git)
+- Clean up your local repository and push updates to the remote repository.
+
+---
+
 ## 🚀 How to Run Code
 
 1. Navigate to the relevant `Code/` folder:

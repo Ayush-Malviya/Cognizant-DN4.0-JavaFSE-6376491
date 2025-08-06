@@ -60,6 +60,11 @@ This repository contains Java-based solutions for hands-on exercises as part of 
 │   ├── 12_React/
 │   ├── 13_React/
 ├── Week8
+│   ├── 01_Git/
+│   ├── 02_Git/
+│   ├── 03_Git/
+│   ├── 04_Git/
+│   ├── 05_Git/
 
 ````
 
